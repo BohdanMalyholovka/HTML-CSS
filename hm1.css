@@ -1,0 +1,63 @@
+body {
+    background: silver;
+    margin: 75px;
+}
+
+.main-link a{
+    text-decoration: none;
+    color: darkred;
+}
+
+.main-link a:hover{
+    color: white;
+    transition: 1s;
+}
+
+.section-image{
+    display: flex;
+}
+
+.section-image span{
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 20px;
+    color: white;
+}
+.target{
+    display: flex;
+}
+.target p{
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 20px;
+    color: white;
+
+}
+
+img {
+    border-radius: 100px;
+    display: inline;
+}
+
+h1 {
+    text-align: center
+}
+
+h2 {
+    font-size: 30px;
+    color: darkred;
+    text-align: center
+}
+
+h3 {
+    font-size: 30px;
+    color: darkred;
+    text-align: center;
+}
+
+ul {
+    font-size: 25px;
+    color: white;
+
+}
+
